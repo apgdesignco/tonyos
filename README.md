@@ -22,3 +22,50 @@ Build once.
 Document everything.
 Automate repetitive work.
 Continuously improve.
+# TonyOS
+
+> My personal operating system.
+
+---
+
+# 🎯 Current Mission
+
+## Primary
+- [ ] Grow CFrame
+- [ ] Build APG Design Co.
+- [ ] Land high-paying UX/Product work
+
+## Secondary
+- [ ] Build portfolio projects
+- [ ] Learn AI engineering
+- [ ] Publish creative work
+
+---
+
+# 🚀 Active Projects
+
+| Project | Status | Priority |
+|----------|--------|----------|
+| CFrame | 🟢 Active | Critical |
+| APG Design | 🟢 Active | High |
+| Tony Lab | 🟡 Building | Medium |
+| Creative Code | 🟡 Planning | Medium |
+| AI Experiments | 🟢 Active | High |
+
+---
+
+# 📚 Areas of Focus
+
+- UX Strategy
+- Product Design
+- Creative Direction
+- AI Engineering
+- Front-End Development
+- Branding
+- Marketing Strategy
+
+---
+
+# 🧠 Principle
+
+Build systems, not projects.
